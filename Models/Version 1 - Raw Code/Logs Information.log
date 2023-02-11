@@ -1,0 +1,43 @@
+9.9s 1 /kaggle/input/cancer-patients-and-air-pollution-a-new-link/cancer patient data sets.csv
+10.0s 2 <class 'pandas.core.frame.DataFrame'>
+10.0s 3 RangeIndex: 1000 entries, 0 to 999
+10.0s 4 Data columns (total 26 columns):
+10.0s 5 #   Column                    Non-Null Count  Dtype
+10.0s 6 ---  ------                    --------------  -----
+10.0s 7 0   index                     1000 non-null   int64
+10.0s 8 1   Patient Id                1000 non-null   object
+10.0s 9 2   Age                       1000 non-null   int64
+10.0s 10 3   Gender                    1000 non-null   int64
+10.0s 11 4   Air Pollution             1000 non-null   int64
+10.0s 12 5   Alcohol use               1000 non-null   int64
+10.0s 13 6   Dust Allergy              1000 non-null   int64
+10.0s 14 7   OccuPational Hazards      1000 non-null   int64
+10.0s 15 8   Genetic Risk              1000 non-null   int64
+10.0s 16 9   chronic Lung Disease      1000 non-null   int64
+10.0s 17 10  Balanced Diet             1000 non-null   int64
+10.0s 18 11  Obesity                   1000 non-null   int64
+10.0s 19 12  Smoking                   1000 non-null   int64
+10.0s 20 13  Passive Smoker            1000 non-null   int64
+10.0s 21 14  Chest Pain                1000 non-null   int64
+10.0s 22 15  Coughing of Blood         1000 non-null   int64
+10.0s 23 16  Fatigue                   1000 non-null   int64
+10.0s 24 17  Weight Loss               1000 non-null   int64
+10.0s 25 18  Shortness of Breath       1000 non-null   int64
+10.0s 26 19  Wheezing                  1000 non-null   int64
+10.0s 27 20  Swallowing Difficulty     1000 non-null   int64
+10.0s 28 21  Clubbing of Finger Nails  1000 non-null   int64
+10.0s 29 22  Frequent Cold             1000 non-null   int64
+10.0s 30 23  Dry Cough                 1000 non-null   int64
+10.0s 31 24  Snoring                   1000 non-null   int64
+10.0s 32 25  Level                     1000 non-null   object
+10.0s 33 dtypes: int64(24), object(2)
+10.0s 34 memory usage: 203.2+ KB
+11.5s 35 0.9952088636023356
+15.1s 36 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2758: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+15.1s 37 FutureWarning,
+15.1s 38 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+15.4s 39 [NbConvertApp] Writing 57102 bytes to __notebook__.ipynb
+17.9s 40 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2758: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+17.9s 41 FutureWarning,
+17.9s 42 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+18.6s 43 [NbConvertApp] Writing 304934 bytes to __results__.html
